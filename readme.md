@@ -12,7 +12,7 @@
 <h3>1. Clone the repository:</h3>
 
 ```
-git clone https://github.com/ThomasJanssen-tech/Chatbot-with-RAG-and-LangChain.git](https://github.com/dang-hang/PASCO-Agent.git
+git clone https: https://github.com/dang-hang/PASCO-Agent.git
 cd Chatbot-with-RAG-and-LangChain
 ```
 
